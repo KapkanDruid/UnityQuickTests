@@ -126,7 +126,8 @@ public sealed class PlainServiceSmokeTest
 Предупреждения можно настроить через
 `Tools/Unity Quick Tests/Warning Settings`.
 
-## Тестирование
+## Документация
 
-Инструкция по автоматическим проверкам находится в
-[`Docs/TESTING.md`](Docs/TESTING.md).
+- [Тестирование](Docs/TESTING.ru.md) — инструкция по автоматическим проверкам.
+- [История изменений](CHANGELOG.ru.md) — изменения по версиям.
+- [Лицензия](LICENSE.ru.md) — условия лицензии MIT.

@@ -126,7 +126,8 @@ support status, and warnings about conflicting keyboard shortcuts.
 You can configure warnings through
 `Tools/Unity Quick Tests/Warning Settings`.
 
-## Testing
+## Documentation
 
-Instructions for automated checks are available in
-[`Docs/TESTING.md`](Docs/TESTING.md) (in Russian).
+- [Testing](Docs/TESTING.md) — instructions for automated checks.
+- [Changelog](CHANGELOG.md) — release history.
+- [License](LICENSE.md) — MIT license terms.
